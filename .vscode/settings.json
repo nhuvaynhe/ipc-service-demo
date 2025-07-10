@@ -1,0 +1,20 @@
+{
+    "files.associations": {
+        "unistd.h": "c",
+        "string.h": "c",
+        "mylog.h": "c",
+        "compare": "c",
+        "ipc.h": "c",
+        "stdlib.h": "c",
+        "stdio.h": "c",
+        "errno.h": "c",
+        "shm.h": "c",
+        "semaphore.h": "c",
+        "aw_wifi.h": "c",
+        "stdint.h": "c",
+        "cstdint": "c",
+        "ipc_shm.h": "c",
+        "time.h": "c",
+        "inttypes.h": "c"
+    }
+}
