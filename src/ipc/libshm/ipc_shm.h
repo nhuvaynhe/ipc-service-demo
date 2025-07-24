@@ -1,3 +1,6 @@
+#ifndef __IPC_SHM_H__
+#define __IPC_SHM_H__
+
 #include <sys/ipc.h>
 #include <sys/shm.h>
 #include <stdint.h>
@@ -53,3 +56,5 @@ void shm_segment_detach(shm_info_t *seg);
  * note: memory will be removed after all detach
  */
 void shm_segment_destroy(shm_info_t *seg);
+
+#endif
